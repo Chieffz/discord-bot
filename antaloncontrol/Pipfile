@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+discord-py = "*"
+asyncpg = "*"
+requests = "*"
+pip = "*"
+robloxapi = "*"
+ro-py = "*"
+
+[requires]
+python_version = "3.8"
